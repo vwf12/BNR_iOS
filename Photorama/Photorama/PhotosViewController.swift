@@ -1,14 +1,14 @@
 //
 //  ViewController.swift
-//  Mandala
+//  Photorama
 //
-//  Created by FARIT GATIATULLIN on 23.07.2020.
+//  Created by FARIT GATIATULLIN on 30.07.2020.
 //  Copyright © 2020 vwf. All rights reserved.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class PhotosViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
